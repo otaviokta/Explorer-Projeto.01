@@ -21,6 +21,7 @@ h1 {
   font-size: 49px;
   line-height: 56px;
   font-weight: normal;
+  color: black;
 
   margin-bottom: 32px;
 }
@@ -35,6 +36,7 @@ a {
   color: #ff9900;
 }
 
+/* Footer */
 p,
 #footer {
   margin-bottom: 80px;
